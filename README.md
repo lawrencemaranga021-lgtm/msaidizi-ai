@@ -1,2 +1,2 @@
 # msaidizi-ai
-Msaidizi AI — Your Life. Smarter.
+Msaidizi AI — Make Your Life Smarter.
